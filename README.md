@@ -10,7 +10,8 @@ N/A
 
 ## Usage
 
-Here is a recording demostrating functionality of application as well as steps necessary to generate new SVG file: 
+Here is a recording demostrating functionality of application as well as steps necessary to generate new SVG file: [Untitled_ May 28, 2023 11_42 PM.webm](https://github.com/leopelo/SVG-Logo-Generator/assets/127148387/24b0129e-16d5-436d-9285-d2654b6d4425)
+
 
 Together with a link to access it:
 
